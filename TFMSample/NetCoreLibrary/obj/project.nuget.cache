@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "8h6ENx1Vja17jPqtRMI4fgj7DqKIR4jCuAKdaYPV+zCypHR3oNEustMf8OkRH4onD/k7a3c2QC5eLK3VUjID1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jh5.cho\\workspace\\github\\TFMSample\\TFMSample\\NetCoreLibrary\\NetCoreLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jh5.cho\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\jh5.cho\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\jh5.cho\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\jh5.cho\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\jh5.cho\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\jh5.cho\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\jh5.cho\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

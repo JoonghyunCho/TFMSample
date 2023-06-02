@@ -1,0 +1,153 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-tizen7.0": {
+      "Net60Library/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Net60Library.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Net60Library.dll": {}
+        }
+      },
+      "NetCoreLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/NetCoreLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NetCoreLibrary.dll": {}
+        }
+      },
+      "NetStandardLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/NetStandardLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NetStandardLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Net60Library/1.0.0": {
+      "type": "project",
+      "path": "../Net60Library/Net60Library.csproj",
+      "msbuildProject": "../Net60Library/Net60Library.csproj"
+    },
+    "NetCoreLibrary/1.0.0": {
+      "type": "project",
+      "path": "../NetCoreLibrary/NetCoreLibrary.csproj",
+      "msbuildProject": "../NetCoreLibrary/NetCoreLibrary.csproj"
+    },
+    "NetStandardLibrary/1.0.0": {
+      "type": "project",
+      "path": "../NetStandardLibrary/NetStandardLibrary.csproj",
+      "msbuildProject": "../NetStandardLibrary/NetStandardLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-tizen7.0": [
+      "Net60Library >= 1.0.0",
+      "NetCoreLibrary >= 1.0.0",
+      "NetStandardLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\jh5.cho\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\jh5.cho\\workspace\\github\\TFMSample\\TFMSample\\TFMSample\\TFMSample.csproj",
+      "projectName": "TFMSample",
+      "projectPath": "C:\\Users\\jh5.cho\\workspace\\github\\TFMSample\\TFMSample\\TFMSample\\TFMSample.csproj",
+      "packagesPath": "C:\\Users\\jh5.cho\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jh5.cho\\workspace\\github\\TFMSample\\TFMSample\\TFMSample\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\jh5.cho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-tizen"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://tizen.myget.org/F/dotnet/api/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-tizen7.0": {
+          "targetAlias": "net6.0-tizen",
+          "projectReferences": {
+            "C:\\Users\\jh5.cho\\workspace\\github\\TFMSample\\TFMSample\\Net60Library\\Net60Library.csproj": {
+              "projectPath": "C:\\Users\\jh5.cho\\workspace\\github\\TFMSample\\TFMSample\\Net60Library\\Net60Library.csproj"
+            },
+            "C:\\Users\\jh5.cho\\workspace\\github\\TFMSample\\TFMSample\\NetCoreLibrary\\NetCoreLibrary.csproj": {
+              "projectPath": "C:\\Users\\jh5.cho\\workspace\\github\\TFMSample\\TFMSample\\NetCoreLibrary\\NetCoreLibrary.csproj"
+            },
+            "C:\\Users\\jh5.cho\\workspace\\github\\TFMSample\\TFMSample\\NetStandardLibrary\\NetStandardLibrary.csproj": {
+              "projectPath": "C:\\Users\\jh5.cho\\workspace\\github\\TFMSample\\TFMSample\\NetStandardLibrary\\NetStandardLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-tizen7.0": {
+        "targetAlias": "net6.0-tizen",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.16, 6.0.16]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.16, 6.0.16]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.16, 6.0.16]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Samsung.Tizen": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

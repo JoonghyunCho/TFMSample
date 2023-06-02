@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TFMSample/1.0.0": {
+        "dependencies": {
+          "Net60Library": "1.0.0",
+          "NetCoreLibrary": "1.0.0",
+          "NetStandardLibrary": "1.0.0"
+        },
+        "runtime": {
+          "TFMSample.dll": {}
+        }
+      },
+      "Net60Library/1.0.0": {
+        "runtime": {
+          "Net60Library.dll": {}
+        }
+      },
+      "NetCoreLibrary/1.0.0": {
+        "runtime": {
+          "NetCoreLibrary.dll": {}
+        }
+      },
+      "NetStandardLibrary/1.0.0": {
+        "runtime": {
+          "NetStandardLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TFMSample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Net60Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NetCoreLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NetStandardLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

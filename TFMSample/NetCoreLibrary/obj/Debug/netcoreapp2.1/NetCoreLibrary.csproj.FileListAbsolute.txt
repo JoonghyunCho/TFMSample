@@ -1,0 +1,10 @@
+C:\Users\jh5.cho\workspace\github\TFMSample\TFMSample\NetCoreLibrary\bin\Debug\netcoreapp2.1\NetCoreLibrary.deps.json
+C:\Users\jh5.cho\workspace\github\TFMSample\TFMSample\NetCoreLibrary\bin\Debug\netcoreapp2.1\NetCoreLibrary.dll
+C:\Users\jh5.cho\workspace\github\TFMSample\TFMSample\NetCoreLibrary\bin\Debug\netcoreapp2.1\NetCoreLibrary.pdb
+C:\Users\jh5.cho\workspace\github\TFMSample\TFMSample\NetCoreLibrary\obj\Debug\netcoreapp2.1\NetCoreLibrary.csproj.AssemblyReference.cache
+C:\Users\jh5.cho\workspace\github\TFMSample\TFMSample\NetCoreLibrary\obj\Debug\netcoreapp2.1\NetCoreLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jh5.cho\workspace\github\TFMSample\TFMSample\NetCoreLibrary\obj\Debug\netcoreapp2.1\NetCoreLibrary.AssemblyInfoInputs.cache
+C:\Users\jh5.cho\workspace\github\TFMSample\TFMSample\NetCoreLibrary\obj\Debug\netcoreapp2.1\NetCoreLibrary.AssemblyInfo.cs
+C:\Users\jh5.cho\workspace\github\TFMSample\TFMSample\NetCoreLibrary\obj\Debug\netcoreapp2.1\NetCoreLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jh5.cho\workspace\github\TFMSample\TFMSample\NetCoreLibrary\obj\Debug\netcoreapp2.1\NetCoreLibrary.dll
+C:\Users\jh5.cho\workspace\github\TFMSample\TFMSample\NetCoreLibrary\obj\Debug\netcoreapp2.1\NetCoreLibrary.pdb

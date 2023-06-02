@@ -1,0 +1,12 @@
+C:\Users\jh5.cho\workspace\github\TFMSample\TFMSample\Net60Library\bin\Debug\net6.0\Net60Library.deps.json
+C:\Users\jh5.cho\workspace\github\TFMSample\TFMSample\Net60Library\bin\Debug\net6.0\Net60Library.dll
+C:\Users\jh5.cho\workspace\github\TFMSample\TFMSample\Net60Library\bin\Debug\net6.0\Net60Library.pdb
+C:\Users\jh5.cho\workspace\github\TFMSample\TFMSample\Net60Library\obj\Debug\net6.0\Net60Library.csproj.AssemblyReference.cache
+C:\Users\jh5.cho\workspace\github\TFMSample\TFMSample\Net60Library\obj\Debug\net6.0\Net60Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jh5.cho\workspace\github\TFMSample\TFMSample\Net60Library\obj\Debug\net6.0\Net60Library.AssemblyInfoInputs.cache
+C:\Users\jh5.cho\workspace\github\TFMSample\TFMSample\Net60Library\obj\Debug\net6.0\Net60Library.AssemblyInfo.cs
+C:\Users\jh5.cho\workspace\github\TFMSample\TFMSample\Net60Library\obj\Debug\net6.0\Net60Library.csproj.CoreCompileInputs.cache
+C:\Users\jh5.cho\workspace\github\TFMSample\TFMSample\Net60Library\obj\Debug\net6.0\Net60Library.dll
+C:\Users\jh5.cho\workspace\github\TFMSample\TFMSample\Net60Library\obj\Debug\net6.0\refint\Net60Library.dll
+C:\Users\jh5.cho\workspace\github\TFMSample\TFMSample\Net60Library\obj\Debug\net6.0\Net60Library.pdb
+C:\Users\jh5.cho\workspace\github\TFMSample\TFMSample\Net60Library\obj\Debug\net6.0\ref\Net60Library.dll

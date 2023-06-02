@@ -1,0 +1,10 @@
+C:\Users\jh5.cho\workspace\github\TFMSample\TFMSample\NetStandardLibrary\bin\Debug\netstandard2.0\NetStandardLibrary.deps.json
+C:\Users\jh5.cho\workspace\github\TFMSample\TFMSample\NetStandardLibrary\bin\Debug\netstandard2.0\NetStandardLibrary.dll
+C:\Users\jh5.cho\workspace\github\TFMSample\TFMSample\NetStandardLibrary\bin\Debug\netstandard2.0\NetStandardLibrary.pdb
+C:\Users\jh5.cho\workspace\github\TFMSample\TFMSample\NetStandardLibrary\obj\Debug\netstandard2.0\NetStandardLibrary.csproj.AssemblyReference.cache
+C:\Users\jh5.cho\workspace\github\TFMSample\TFMSample\NetStandardLibrary\obj\Debug\netstandard2.0\NetStandardLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jh5.cho\workspace\github\TFMSample\TFMSample\NetStandardLibrary\obj\Debug\netstandard2.0\NetStandardLibrary.AssemblyInfoInputs.cache
+C:\Users\jh5.cho\workspace\github\TFMSample\TFMSample\NetStandardLibrary\obj\Debug\netstandard2.0\NetStandardLibrary.AssemblyInfo.cs
+C:\Users\jh5.cho\workspace\github\TFMSample\TFMSample\NetStandardLibrary\obj\Debug\netstandard2.0\NetStandardLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jh5.cho\workspace\github\TFMSample\TFMSample\NetStandardLibrary\obj\Debug\netstandard2.0\NetStandardLibrary.dll
+C:\Users\jh5.cho\workspace\github\TFMSample\TFMSample\NetStandardLibrary\obj\Debug\netstandard2.0\NetStandardLibrary.pdb

@@ -1,0 +1,13 @@
+C:\Users\jh5.cho\workspace\github\TFMSample\TFMSample\TFMSample\bin\Debug\net6.0-tizen\tpkroot\bin\TFMSample.dll
+C:\Users\jh5.cho\workspace\github\TFMSample\TFMSample\TFMSample\bin\Debug\net6.0-tizen\tpkroot\bin\TFMSample.runtimeconfig.json
+C:\Users\jh5.cho\workspace\github\TFMSample\TFMSample\TFMSample\bin\Debug\net6.0-tizen\tpkroot\bin\TFMSample.pdb
+C:\Users\jh5.cho\workspace\github\TFMSample\TFMSample\TFMSample\bin\Debug\net6.0-tizen\tpkroot\bin\Net60Library.dll
+C:\Users\jh5.cho\workspace\github\TFMSample\TFMSample\TFMSample\bin\Debug\net6.0-tizen\tpkroot\bin\NetCoreLibrary.dll
+C:\Users\jh5.cho\workspace\github\TFMSample\TFMSample\TFMSample\bin\Debug\net6.0-tizen\tpkroot\bin\NetStandardLibrary.dll
+C:\Users\jh5.cho\workspace\github\TFMSample\TFMSample\TFMSample\bin\Debug\net6.0-tizen\tpkroot\bin\Net60Library.pdb
+C:\Users\jh5.cho\workspace\github\TFMSample\TFMSample\TFMSample\bin\Debug\net6.0-tizen\tpkroot\bin\NetCoreLibrary.pdb
+C:\Users\jh5.cho\workspace\github\TFMSample\TFMSample\TFMSample\bin\Debug\net6.0-tizen\tpkroot\bin\NetStandardLibrary.pdb
+C:\Users\jh5.cho\workspace\github\TFMSample\TFMSample\TFMSample\bin\Debug\net6.0-tizen\tpkroot\TFMSample.deps.json
+C:\Users\jh5.cho\workspace\github\TFMSample\TFMSample\TFMSample\bin\Debug\net6.0-tizen\tpkroot\
+C:\Users\jh5.cho\workspace\github\TFMSample\TFMSample\TFMSample\bin\Debug\net6.0-tizen\tpkroot\shared\res\TFMSample.png
+C:\Users\jh5.cho\workspace\github\TFMSample\TFMSample\TFMSample\bin\Debug\net6.0-tizen\com.companyname.TFMSample-1.0.0.tpk

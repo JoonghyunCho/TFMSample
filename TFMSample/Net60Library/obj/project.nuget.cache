@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VD/hywyNhQWIb7Tku0gn0Tmv2/jsMXFdq9N1n1KPzqntvj+r6KTzG5OTR+PELgidWl0KxoBGl5bAuRc41EfY4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jh5.cho\\workspace\\github\\TFMSample\\TFMSample\\Net60Library\\Net60Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jh5.cho\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\jh5.cho\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\jh5.cho\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

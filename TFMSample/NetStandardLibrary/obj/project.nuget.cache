@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gx+34z1GJU4vEtCJE4aG9E0Pc8sQJBAwFAHnOf3WbnmNYilhOn4JPjROqn/Sb58x1ezeSt3Q/d0qBeZs3+AExA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jh5.cho\\workspace\\github\\TFMSample\\TFMSample\\NetStandardLibrary\\NetStandardLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jh5.cho\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jh5.cho\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

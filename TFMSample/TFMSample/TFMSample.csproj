@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net6.0-tizen</TargetFramework>
+    <OutputType>Exe</OutputType>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Net60Library\Net60Library.csproj" />
+    <ProjectReference Include="..\NetCoreLibrary\NetCoreLibrary.csproj" />
+    <ProjectReference Include="..\NetStandardLibrary\NetStandardLibrary.csproj" />
+  </ItemGroup>
+</Project>
